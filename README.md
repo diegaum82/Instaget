@@ -84,11 +84,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Diego Mendes - [@diegaum82](https://github.com/diegaum82)
 
-## 🙏 Agradecimentos
-
-- Agradeça aqui quaisquer bibliotecas ou recursos que você utilizou
-- Mencione inspirações ou projetos similares
-
 ---
-⌨️ com ❤️ por [seu-nome]
+⌨️ com ❤️ por [Diego]
 
